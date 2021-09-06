@@ -1,4 +1,4 @@
-![](Atman.jpg)
+![picture of me](Atman.jpg)
 
 ### SUMMARY
 
