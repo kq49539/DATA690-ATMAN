@@ -1,6 +1,4 @@
-<img src="Atman.png" alt="IMG_2621" style="height:50px; width:50px;">
-<h1>ATMAN PATEL</h1>
-<br>
+
 
 ### SUMMARY
 
