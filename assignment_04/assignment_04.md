@@ -1,6 +1,3 @@
-This folder is for assignment_04
-
-
 # Assignment 04
 
 ## Part A - Using Python
