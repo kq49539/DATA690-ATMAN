@@ -1,6 +1,5 @@
 # Topic: CO2 emmision from gaseous fuel consumption effects the Environment
 - Source of data & graphs: THE WORLD DEVELOPMENT EXPLORER
-- Countries : All
 - Timeline: 2010 - 2015
 
 # 1. The consumption of gaseous fuel between North America & South Asia.
