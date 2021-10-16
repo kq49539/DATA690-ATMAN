@@ -7,4 +7,4 @@
 ![newplot (3)](https://raw.githubusercontent.com/kq49539/DATA690-ATMAN/main/individual_project/newplot%20(3).png)
 
 - CHOROPLETH
-- ![newplot (5)]()
+- ![newplot (5)](https://github.com/kq49539/DATA690-ATMAN/blob/main/individual_project/newplot%20(5).png)
