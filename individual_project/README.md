@@ -11,3 +11,7 @@
 
 - Time Series
 ![newplot (7)](https://github.com/kq49539/DATA690-ATMAN/blob/main/individual_project/newplot%20(7).png)
+
+
+- Scatter Plot
+![newplot (8)]()
