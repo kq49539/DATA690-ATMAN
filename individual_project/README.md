@@ -3,6 +3,5 @@
 - Timeline: 2010 - 2019
 
 # 1. Top 10 Countries by 2019 AirTransport
-![newplot (3)]
 
 
