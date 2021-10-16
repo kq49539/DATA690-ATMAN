@@ -1,6 +1,10 @@
-# Topic: Number of Passengers Carried through AirTransport compared to labour force participation and  
+# Topic: Number of Passengers Carried through AirTransport compared to labour force participation and population who visited for studies between age 15-24.
+
 - Source of data & graphs: THE WORLD DEVELOPMENT EXPLORER
 - Timeline: 2010 - 2019
+
+# Countries
+The top 10 countries:
 
 # 1. Top 10 Countries by 2019 AirTransport
 - BAR GRAPH
