@@ -14,4 +14,4 @@
 
 
 - Scatter Plot
-![newplot (8)]()
+![newplot (8)](https://github.com/kq49539/DATA690-ATMAN/blob/main/individual_project/newplot%20(8).png)
