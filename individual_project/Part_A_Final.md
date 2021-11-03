@@ -13,7 +13,7 @@ The top 10 countries: United States, China, Japan, UK, Germany, Ireland, Brazil,
 # Chart Interpretation: 
 - The Bar graph depicts that the number of passengers carried to United States was more than 700M. Whereas, China was the 2 country which carried maximum number of passegers.
 
-# Chart 3
+# Chart 2
 - Time Series
 - Indicators: Number of passengers carried vs year
 ![newplot (7)](https://github.com/kq49539/DATA690-ATMAN/blob/main/individual_project/newplot%20(7).png)
@@ -21,14 +21,14 @@ The top 10 countries: United States, China, Japan, UK, Germany, Ireland, Brazil,
 - United States and China was continously upsurging with respect to years.
 - Other 8 countries were nearly plateaued at 100M. 
 
-# Chart 4
+# Chart 3
 - Scatter Plot
 - Indicators: Barro-Lee population of age 20-24 vs AirTransport passengers carried 
 ![newplot (8)](https://github.com/kq49539/DATA690-ATMAN/blob/main/individual_project/newplot%20(8).png)
 # Chart Interpretation:
 - Number of passengers whose age was between 20-24 were carried through AirTransport. 
 
-# Chart 5
+# Chart 4
 - Scatter Plot
 - Indicators: Labour force participation rate for age 15-24 vs AirTransport passengers
 ![newplot (9)](https://github.com/kq49539/DATA690-ATMAN/blob/main/individual_project/newplot%20(9).png)
@@ -37,4 +37,5 @@ The top 10 countries: United States, China, Japan, UK, Germany, Ireland, Brazil,
 
 # Conclusion
 - From the above Graphs it is very obvious that the number of passengers carried by AirTransport was maximum in USA.
-- Next we can conclude that number of passenger carried to different country between the age (20-24) was maximum in  
+- Next we can conclude that number of passenger carried to different country between the age (20-24) was maximum in Japan inspite of travelling less number of passengers.
+- The passengers carried to United Kingdom were more involved in Labour Force whose ages were between 15-24.
